@@ -17,4 +17,4 @@
 # Custom
 /.idea
 .env
-/tx*
+.root
